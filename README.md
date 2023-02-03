@@ -1,2 +1,8 @@
-# -klid-Geometrisi
-Proje Ödevim
+# Öklid Geometrisi
+## Proje Ödevim
+Öklid'in yöntemi, sezgisel olarak çekici küçük bir aksiyom seti varsaymaktan ve bu aksiyomlara dayanarak birçok başka önermeyi (teoremleri) çıkarmaktan ibarettir. Öklid'in sonuçlarının çoğu daha önceki matematikçiler[1] tarafından ifade edilmiş olsa da, Öklid, bu önermelerin kapsamlı bir tümdengelimli ve mantıksal sisteme[2] nasıl uyabileceğini gösteren ilk kişi oldu. Elemanlar, ilk aksiyomatik sistem ve resmi ispatın ilk örnekleri olarak ortaokulda (lise) hala öğretilen düzlem geometrisi ile başlar. Üç boyutlu katı geometrisi (uzay geometrisi) ile devam ediyor. Elemanlar’ın çoğu, geometrik dilde açıklanan, şimdi cebir ve sayı teorisi olarak adlandırılan şeyin sonuçlarını belirtir.
+
+Raphael'in Atina Okulu'ndan bir detay, geometrik bir şekil çizmek için pergel kullanan bir Yunan matematikçiyi -belki de Öklid veya Arşimet'i temsil ediyor.
+İki bin yıldan fazla bir dönem için "Öklid" sıfatı gereksizdi çünkü başka hiçbir geometri tasarlanmamıştı. Öklid'in aksiyomları sezgisel olarak o kadar açık görünüyordu (paralellik postülatının olası istisnası dışında), onlardan ispatlanan herhangi bir teorem mutlak, çoğu zaman metafiziksel anlamda doğru kabul edildi. Ancak günümüzde, ilkleri 19. yüzyılın başlarında keşfedilen diğer birçok kendinden tutarlı Öklid dışı geometri bilinmektedir. Albert Einstein'ın genel görelilik teorisinin bir sonucu, fiziksel uzayın kendisinin Öklidsel olmadığı ve Öklid uzayının sadece kısa mesafelerde iyi bir yaklaşım olduğudur (yer çekimi alanının gücüne bağlı olarak).[3]
+
+Öklid geometrisi, noktalar ve çizgiler gibi geometrik nesnelerin temel özelliklerini tanımlayan aksiyomlar üzerinden mantıksal olarak ilerlediğinden, bu nesnelerle ilgili önermeler için tüm bu nesneleri belirlemek üzere koordinatlar kullanılmayan sentetik geometrinin bir örneğidir. Bu, geometrik önermeleri cebirsel formüllere çevirmek için koordinatları kullanan analitik geometrinin tersidir
